@@ -1,12 +1,4 @@
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-</style>
-
-
+<link href="styles.css" rel="stylesheet"></link>
 
 # Fanta {#identifier .heading1}
 
